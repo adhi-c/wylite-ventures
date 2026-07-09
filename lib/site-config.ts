@@ -13,7 +13,9 @@ export const siteConfig = {
   url: "https://www.wyliteventures.com",
   locations: ["Ernakulam", "Pathanamthitta", "Kalanjoor"],
   phones: ["+91 80863 08797", "+91 90481 13237", "+91 75949 43044"],
-  email: "info@wyliteventures.com",
+  email: "wyliteventures2026@gmail.com",
+  instagram: "https://www.instagram.com/wylite3044/",
+  instagramHandle: "@wylite3044",
 };
 
 export const navLinks = [
