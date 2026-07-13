@@ -12,7 +12,7 @@ export const siteConfig = {
     "Complete construction, electrical, CCTV, solar and home improvement solutions under one roof — serving Ernakulam, Pathanamthitta and Kalanjoor.",
   url: "https://www.wyliteventures.com",
   locations: ["Ernakulam", "Pathanamthitta", "Kalanjoor"],
-  phones: ["+91 80863 08797", "+91 90481 13237", "+91 75949 43044"],
+  phones: ["+91 75949 43044", "+91 90481 13237", "+91 80863 08797"],
   email: "wyliteventures2026@gmail.com",
   instagram: "https://www.instagram.com/wylite3044/",
   instagramHandle: "@wylite3044",
